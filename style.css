@@ -1,0 +1,157 @@
+body{
+ text-align: center;
+ color: black;
+ background-image: url( https://static.vecteezy.com/system/resources/previews/003/098/572/original/stadium-football-background-at-night-free-vector.jpg);
+ background-color: darkgreen;
+ font-size: 1.1rem;
+ 
+ 
+}
+
+
+.cabecalho-interface{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    color: rgb(223, 238, 12);
+    font-size: 28px;
+    background-size: cover;
+    border-bottom: 2px solid yellowgreen;
+    
+    
+}
+
+.cabecalho-interface2{
+    color: rgb(200, 255, 2);
+   font-size: 35px;
+  border-bottom: 2px solid yellowgreen;
+}
+
+
+
+
+
+/* Seção Principal */
+
+
+
+.cabecalhotimes{
+    display: flex;
+}
+
+
+.cabecalhotimes-lista-item{
+    color: rgb(247, 247, 247);
+    font-size: 1.2rem;
+}
+
+
+/* Seção  Principal */
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.interface{
+    margin-top: 20px;
+    border-radius: 40px;
+    color: rgb(223, 238, 12);
+    height: 200px;
+    font-size: 1.4rem;
+    width: 1150px;
+    background-image:url(https://noataque.com.br/wp-content/uploads/2023/12/palmeiras-x-america-645x362.jpg);
+}
+
+
+.interface-rodape-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2p solid red;
+    margin-top: 40px;
+    color: rgb(223, 238, 12);
+    font-size: 1.4rem;
+}
+
+
+
+
+
+
+
+/* Seção  Times */
+
+
+
+.container2{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+
+
+.interface2{
+
+    background-image: url(https://img.freepik.com/free-photo/smooth-green-background_53876-108464.jpg);
+font-family: Georgia, 'Times New Roman', Times, serif;
+display: flex;
+background-size: cover;
+text-align: left;
+padding-left: 30px;
+border-radius: 10px;
+padding-right: 20px;
+color: rgb(223, 238, 12);
+margin-top: 85px;
+
+}
+
+
+
+.flex2{
+
+     gap: 15px;
+    margin-top: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: ;
+    width: 1250px;
+    height: 310px;
+     border-radius: 60px;
+
+}
+
+/* Rodape */
+
+
+.rodape{
+    background-color: rgb(7, 71, 50);
+     margin-top: 30px;
+     font-size: 1.9rem;
+     color: yellow;
+    justify-content: center;
+}
+
+.rodape-cabecalho{
+    background-image: url();
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+.rodape-cabecalho-lista{
+    display: flex;
+    justify-content: space-between;
+    gap: 140px;
+}
+
+.rodape-cabecalho-lista-item{
+    text-decoration: none;
+}
